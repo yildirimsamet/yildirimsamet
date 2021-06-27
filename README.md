@@ -28,6 +28,6 @@ I am a Frontend Web Developer.
 
 ## 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yildirimsamet&hide=TeX&layout=compact)
 
 <img src="https://komarev.com/ghpvc/?username=yildirimsamet" />
