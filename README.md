@@ -1,6 +1,6 @@
 ## Hello, I am Samet <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am a Frontend Web Developer.
+I am a Software Engineer.
 
 
 
@@ -12,10 +12,12 @@ I am a Frontend Web Developer.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
-![Java](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=next.js)
+![ReactJS]([https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D))
+![VueJS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
+![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=next.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Laravel]([https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3](https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel))
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-111?style=flat-square&logo=typescript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
@@ -27,7 +29,5 @@ I am a Frontend Web Developer.
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 ## 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yildirimsamet&hide=TeX&layout=compact)
 
 <img src="https://komarev.com/ghpvc/?username=yildirimsamet" />
